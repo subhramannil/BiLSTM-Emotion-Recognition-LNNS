@@ -1,7 +1,6 @@
 # Affective Computing & Sentiment Analysis via BiLSTM
 
-[![Kaggle](https://www.kaggle.com/code/subhranilwayne/trustworthy-ai))
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/subhranilwayne/trustworthy-ai)
 ## 📌 Project Overview
 This repository contains the code and methodology for an advanced deep learning model focused on Affective Computing and Sentiment Analysis. The core of the project utilizes a **Bidirectional Long Short-Term Memory (BiLSTM)** architecture to effectively capture sequential data dependencies and temporal context in textual data. 
 
